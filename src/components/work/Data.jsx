@@ -19,7 +19,7 @@ export const projectData = [
     description:
       "Discover eco-friendly Ecommerce App. With Redux and Firebase, enjoy personalized shopping and secure authentication for a seamless experience.",
     tech: ['Tailwand',"ReactJs",'Rest APIs'],
-    link:'https://ecommerce-web-app-ashen.vercel.app/'
+    link:'https://ecommerce-web-app-ashen.vercel.app'
   },
   {
     id: 1,
